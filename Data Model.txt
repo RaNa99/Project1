@@ -38,6 +38,29 @@ SkillsUsed(what skills did you demonstrate at this job?)} - Multiple Entry
 
 
 
+Post JOb
+-----------------------------------------------------------
+Company
+JobTitle
+JobDecription
+City
+State
+Country
+JobType - Fulltime/Partime/Contract/Temporory/Internship
+Salary
+Job requirements
+LocalCandidatesOnly Yes/No
+Experience
+NoExperienceRequired Yes/No
+AddressproofRequired Yes/No
+EducationLevel
+Additional Languages required
+
+
+
+
+
+
 
 
 
