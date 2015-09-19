@@ -1,0 +1,49 @@
+Login Registration form 
+----------------------------------
+Email
+Password
+DateCreated
+DateModified
+
+
+Profile
+----------------------
+FirstName - String
+LastName - String
+Email - String
+City - String
+Relocation - Yes/No
+PhoneNumber - String
+WhoCanSeeResume - Public/Private
+(Public - Your resume will be visible to anyone, in accordance with our terms. Your phone number and email address are only provided to employers you apply to.
+Private - Your resume is not visible. Employers cannot find your resume, but you can attach it when you apply to a job.)
+By creating an Indeed Resume, you agree to Indeed's Terms of Service, and consent to our Cookie Policy and Privacy Policy.
+----Education---
+{Degree (Ex BA,B.ED,M.Sc)
+FieldOfStudy (Ex Biology, Mathematics)
+College or University
+City
+TimePeriod} - Multiple Entry
+
+----Work----
+{JobTitle
+Company
+City
+Salary (Optional)
+TimePeriod
+CurrentlyWorking Yes/No
+Responsibilities (what did you do each day at this job?)
+Accomplishments (what impact did you have during your time at this job?)
+SkillsUsed(what skills did you demonstrate at this job?)} - Multiple Entry
+
+
+
+
+
+
+
+
+
+
+
+
